@@ -26,7 +26,7 @@ new_status1="dead"
 new_status2=epic_tragedy[:capulet][:heroine][:status]
 new_status2="dead"
   
-
+return epic_tragedy
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
 end
