@@ -17,6 +17,7 @@ def third_challenge
         :status=> "alive"
         #your key/value pairs here
         },
+        :hero_friends=>[]
    }, 
    :capulet => {
       :patriarch => {
